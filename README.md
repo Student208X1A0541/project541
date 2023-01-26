@@ -11,13 +11,11 @@ Industry             :Lifestyle
 
 Project Title        : RAMAKRISHNA HAIR STYLES
 
-PROJECT DESCRIPTION  : MODEL HAIR STYLES FOR WOMEN
-
 Projecr Description  : HAIR STYLES START WITH GOOD CARE
 
-Static Web App URL : https://student208x1a0541.github.io/project541/about.html
+Static Web App URL : https://happy-smoke-0fb8c2b00.2.azurestaticapps.net
 
-Azure Health Bot URL:https://student208x1a0541.github.io/project541/healtht.html
+Azure Health Bot URL:https://centralindia.healthbot.microsoft.com/account/healthbot-5qjf2ye
 
 MY WEB SITE LINK IS:https://student208x1a0541.github.io/project541/# 
 
@@ -25,7 +23,7 @@ Primary Azure Technologies: Static Web apps , Health Bot
 
 #*PROJECR DEMO VIDEO LINK*#
 
-https://user-images.githubusercontent.com/117998817/214804629-1f7106e6-beea-43b0-84cd-f4a8b6641370.mp4
+https://user-images.githubusercontent.com/117998817/214821326-46c78c3f-c998-4af7-84da-57ed1d9a149e.mp4
 
 #SCREENSHOTS
 ##HOME
@@ -51,7 +49,8 @@ https://user-images.githubusercontent.com/117998817/214804629-1f7106e6-beea-43b0
 ![Screenshot (330)](https://user-images.githubusercontent.com/117998817/214782941-3c796a22-8f77-4e9e-98b7-7c80fdf55533.png)
 #HEALTHBOT
 ![Screenshot (331)](https://user-images.githubusercontent.com/117998817/214784639-542a9ecf-ac79-4b12-afed-3f62dee22524.png)
-
+#AZURE SERVICES USED#
+![Screenshot (346)](https://user-images.githubusercontent.com/117998817/214808158-a5e4e75d-e66c-4460-a227-690b23f3d82e.png)
 
 
 

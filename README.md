@@ -21,10 +21,6 @@ MY WEB SITE LINK IS:https://student208x1a0541.github.io/project541/#
 
 Primary Azure Technologies: Static Web apps , Health Bot
 
-#*PROJECR DEMO VIDEO LINK*#
-
-https://user-images.githubusercontent.com/117998817/214821326-46c78c3f-c998-4af7-84da-57ed1d9a149e.mp4
-
 #SCREENSHOTS
 ##HOME
 ![Screenshot (324)](https://user-images.githubusercontent.com/117998817/214780873-40eae0d2-902b-4f21-bda2-c529e957faae.png)

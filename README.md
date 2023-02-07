@@ -9,7 +9,7 @@ Web Technologies used: HTML, CSS,JS.
 
 Industry             :Lifestyle
 
-Project Title        : FASHIONCHANGE YOUR HAIR STYLES
+Project Title        : FASHION CHANGE YOUR HAIR STYLES
 
 Projecr Description  : HAIR STYLES START WITH GOOD CARE
 

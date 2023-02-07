@@ -7,7 +7,7 @@
 
 Web Technologies used: HTML, CSS,JS.
 
-Industry             :Lifestyle
+Industry             : Lifestyle
 
 Project Title        : FASHION CHANGE YOUR HAIR STYLES
 

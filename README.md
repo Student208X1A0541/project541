@@ -38,16 +38,18 @@ Primary Azure Technologies: Static Web apps , Health Bot
 ![image](https://user-images.githubusercontent.com/117998817/214781401-285ec75f-a46d-446e-9f28-cfca109b9f04.png)
 ![image](https://user-images.githubusercontent.com/117998817/214781513-2a22bbe3-0b20-4177-8100-f80d17eff774.png)
 ![image](https://user-images.githubusercontent.com/117998817/214781577-11198968-42a9-403c-a30b-27caa86b0a28.png)
-![image](https://user-images.githubusercontent.com/117998817/214781631-3ce7b5a5-16b7-41de-8ffd-b6fb2b8b60fe.png)
-![image](https://user-images.githubusercontent.com/117998817/214781676-f3db7dd7-2652-4b67-8990-6ed1d0a59ca4.png)
+
 ## CONTACT-
 ![Screenshot (02)](https://user-images.githubusercontent.com/117998817/217313786-caa2b9cc-3dd4-49ad-853f-5d3b45fe612c.png)
 ## OUR SERVICES-
 ![Screenshot (330)](https://user-images.githubusercontent.com/117998817/214782941-3c796a22-8f77-4e9e-98b7-7c80fdf55533.png)
-## HEALTHBOT-
-![Screenshot (331)](https://user-images.githubusercontent.com/117998817/214784639-542a9ecf-ac79-4b12-afed-3f62dee22524.png)
+
 ## AZURE SERVICES USED-
 ![Screenshot (346)](https://user-images.githubusercontent.com/117998817/214808158-a5e4e75d-e66c-4460-a227-690b23f3d82e.png)
 
+![frt](https://user-images.githubusercontent.com/117998817/217498451-8add5bd5-fc4c-460b-8ad6-252a00bd86f1.png)
 
-
+![static web](https://user-images.githubusercontent.com/117998817/217498557-3ec4cda5-68c9-4548-adb5-5392ad3f682d.png)
+![healthbot](https://user-images.g![static web](https://user-images.githubusercontent.com/117998817/217498663-426128eb-e9d0-4749-abfe-d99066534833.png)
+ithubusercontent.com/117998817/217498593-d4f99a6c-938d-4683-84c3-39e3c441f9b1.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/117998817/214784639-542a9ecf-ac79-4b12-afed-3f62dee22524.png)

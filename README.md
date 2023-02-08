@@ -50,6 +50,8 @@ Primary Azure Technologies: Static Web apps , Health Bot
 ![frt](https://user-images.githubusercontent.com/117998817/217498451-8add5bd5-fc4c-460b-8ad6-252a00bd86f1.png)
 
 ![static web](https://user-images.githubusercontent.com/117998817/217498557-3ec4cda5-68c9-4548-adb5-5392ad3f682d.png)
-![healthbot](https://user-images.g![static web](https://user-images.githubusercontent.com/117998817/217498663-426128eb-e9d0-4749-abfe-d99066534833.png)
-ithubusercontent.com/117998817/217498593-d4f99a6c-938d-4683-84c3-39e3c441f9b1.png)
+mages.g![static web](https://user-images.githubusercontent.com/117998817/217498663-426128eb-e9d0-4749-abfe-d99066534833.png)
+
+![healthbot](https://user-i![healthbot](https://user-images.githubusercontent.com/117998817/217499045-035e6559-cf55-45b2-94df-f2de0e1750f3.png)
+
 ![Screenshot (331)](https://user-images.githubusercontent.com/117998817/214784639-542a9ecf-ac79-4b12-afed-3f62dee22524.png)

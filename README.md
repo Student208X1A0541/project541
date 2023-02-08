@@ -31,7 +31,7 @@ Primary Azure Technologies: Static Web apps , Health Bot
 
 ## FEATURES-
 ![Screenshot (326)](https://user-images.githubusercontent.com/117998817/214781067-e429e1f1-24c5-42f4-a12b-c5981d73642b.png)
-#HAIR STYLES
+## HAIR STYLES-
 ![Screenshot (327)](https://user-images.githubusercontent.com/117998817/214781184-222ffddc-b98e-4ea5-9a68-1d10916ce0ab.png)
 
 ## IMAGES-
